@@ -4,7 +4,6 @@ Lane[] lanes;
 int SAFETY = 0;
 int CAR = 1;
 int LOG = 2;
-PImage frogg;
 
 float grid = 50;
 
